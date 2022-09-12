@@ -1,4 +1,4 @@
-#!C:/Users/Swachandrika/AppData/Local/Programs/Python/Python39/python.exe
+#!C:/Python25/python.exe
 import cgi
 # create instance of fieldStorage
 form = cgi.FieldStorage()
